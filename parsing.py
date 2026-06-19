@@ -1,3 +1,4 @@
+# (c) 2026 Середенко К.А. Все права защищены. См. LICENSE
 import time
 import requests
 import llm
