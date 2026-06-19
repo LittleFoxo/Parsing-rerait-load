@@ -1,3 +1,4 @@
+# (c) 2026 Середенко К.А. Все права защищены. См. LICENSE
 import os
 from azure.ai.inference import ChatCompletionsClient
 from azure.ai.inference.models import SystemMessage, UserMessage
